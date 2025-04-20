@@ -14,7 +14,7 @@ const Hero = () => (
         
         <p className="text-xl md:text-2xl lg:text-3xl text-gray-600 mb-12 leading-relaxed max-w-3xl mx-auto lg:mx-0">
         Snap a photo of any meal and watch as our AI delivers instant, accurate nutrition facts – calories, macros, and micronutrients broken down in seconds.
-        Because hitting your targets should feel effortless, not like guesswork."
+        Because hitting your targets should feel effortless, not like guesswork.
         </p>
 
       </div>

@@ -16,9 +16,9 @@ const Navbar = () => {
 
         {/* Middle: Links */}
         <div className="hidden md:flex space-x-8 text-gray-600 font-medium">
-          <a href="/#features" className="hover:text-black transition">Features</a>
-          <a href="/#how" className="hover:text-black transition">How it Works</a>
-          <a href="/#contact" className="hover:text-black transition">Contact</a>
+          <Link href="/#features" className="hover:text-black transition">Features</Link>
+          <Link href="/#how" className="hover:text-black transition">How it Works</Link>
+          <Link href="/#contact" className="hover:text-black transition">Contact</Link>
         </div>
 
         {/* Right: Download button */}

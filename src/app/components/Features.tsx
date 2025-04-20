@@ -36,7 +36,7 @@ const Features = () => {
     const container = carouselRef.current;
     if (!container) return;
 
-    const itemWidth = scrollStep + 24; // image width + gap
+
     const middle = (container.scrollWidth / 2) - container.offsetWidth / 2;
 
     container.scrollLeft = middle;

@@ -294,7 +294,7 @@ const Recipe = () => {
               Available Recipes
             </h2>
             <p className="text-base sm:text-lg text-sky-200 mb-8">
-              Version 1 : Dished model is trained to recognize
+              Version 1 : Dishes model is trained to recognize
             </p>
     
             {/* Searchable Dropdown */}

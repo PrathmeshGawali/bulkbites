@@ -24,6 +24,11 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
+      <head>
+        {/* Custom Favicon */}
+        <link rel="icon" href="logo.png" sizes="any" />
+        {/* You can add more icons here like apple-touch-icon or manifest */}
+      </head>
       <body
         className={`${geistSans.variable} ${geistMono.variable} antialiased`}
       >

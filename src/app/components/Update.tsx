@@ -15,7 +15,7 @@ const Update = () => {
           {/* CTA Button */}
           <a
             className="inline-block"
-            href="https://expo.dev/artifacts/eas/o4BXX61vARtg7yeYK6SwdJ.apk"
+            href=" https://expo.dev/artifacts/eas/trTP23bqCgpoj7E14MDNxX.apk"
             target="_blank"
             rel="noopener noreferrer"
           >

@@ -66,18 +66,20 @@ const Features = () => {
         <p className="text-xl text-gray-500 mb-14 max-w-3xl mx-auto">
           AI-powered calorie tracking, meal planning, barcode scanning, and more — all in your pocket.
         </p>
-
+        <p className="text-xl text-gray-500 mb-14 max-w-2xl mx-auto">
+          Scroll horizontally.
+        </p>
         {/* Scroll Buttons */}
         <button
           onClick={scrollLeft}
-          className="absolute left-0 top-1/2 transform -translate-y-1/2 z-10 p-2 bg-white shadow-md rounded-full hidden sm:block"
+           className="absolute left-0 top-1/2 transform -translate-y-1/2 z-10 p-2 bg-orange-600 shadow-md rounded-full hidden sm:block"
         >
           <ChevronLeft size={24} />
         </button>
 
         <button
           onClick={scrollRight}
-          className="absolute right-0 top-1/2 transform -translate-y-1/2 z-10 p-2 bg-white shadow-md rounded-full hidden sm:block"
+          className="absolute right-0 top-1/2 transform -translate-y-1/2 z-10 p-2 bg-orange-600 shadow-md rounded-full hidden sm:block"
         >
           <ChevronRight size={24} />
         </button>

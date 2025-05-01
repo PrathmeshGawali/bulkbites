@@ -9,13 +9,13 @@ const Features = () => {
   const scrollStep = 400;
 
   const carouselImages = [
-    '1.jpeg',
-    '2.jpeg',
-    '3.jpeg',
-    '4.jpeg',
-    '5.jpeg',
-    '6.jpeg',
-    '7.jpeg',
+    '1.png',
+    '2.png',
+    '3.png',
+    '4.png',
+    '5.png',
+    '6.png',
+    '7.png',
   ];
 
   const fullList = [...carouselImages, ...carouselImages]; // Clone for seamless loop

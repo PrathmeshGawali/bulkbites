@@ -23,7 +23,7 @@ const Navbar = () => {
 
         {/* Right: Download button */}
         <Link
-          href=" https://expo.dev/artifacts/eas/trTP23bqCgpoj7E14MDNxX.apk"
+          href="https://play.google.com/store/apps/details?id=com.tensorbuilds.bulkbites"
           className="bg-black text-white px-4 py-2 rounded-md font-semibold hover:opacity-90 transition"
         >
           Download

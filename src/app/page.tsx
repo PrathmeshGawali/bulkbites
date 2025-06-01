@@ -5,6 +5,7 @@ import HowItWorks from './components/HowItWorks';
 import Contact from './components/Contact';
 import Update from './components/Update';
 import Recipe from './components/Recipe';
+import Promoter from './components/Promoters';
 export default function Home() {
   return (
     <>
@@ -14,6 +15,7 @@ export default function Home() {
         <Features />
         <HowItWorks />
         <Recipe />
+        <Promoter/>
         <Update />
         <Contact />
       </main>

@@ -8,10 +8,6 @@ const Update = () => {
               Updates
             </h2>
 
-            {/* Subtext */}
-            <p className="text-base sm:text-lg text-sky-200 mb-8">
-              Version 1
-            </p>
 
             {/* Playstore Image */}
             <a
